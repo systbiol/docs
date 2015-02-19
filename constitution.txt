@@ -16,7 +16,7 @@ Anyone who is interested in the objectives of the Society is eligible for member
 
 Section 2. Membership
 
-Membership is established by application to the Executive Vice President of the Society, accompanied by payment of the annual dues, as described in the instructions on our website.
+Membership is established by application, accompanied by payment of the annual dues, as described in the instructions on our website.
 
 Section 3. Dues
 
@@ -120,11 +120,15 @@ All officers (except the Editor and Trustees) and all Councilors shall be nomina
 
 Section 2. Elections
 
-The President-Elect, if necessary the President, and Councilors shall be elected by the members of the Society by a mail or electronic vote prior to the Annual Meeting. Candidates for Councilor receiving the most votes up to the number of positions on the Council to be filled shall be elected. Any vacated positions of uncompleted terms on the Council shall be filled by Council nominees receiving the most number of votes in the previous election. The Executive Vice President, Treasurer, Awards Director, Trustees and Program Director are elected by a mail or electronic vote of the Council. The candidate for each must receive a majority of affirmative ballots to be elected. All elections by mail or electronic vote are conducted by the Executive Vice President or his/her designee, who shall mail the appropriate ballots or initiate electronic voting to the general members and to the Council members at least two months prior to the Annual Meeting. To be valid, returned ballots must be postmarked at least 30 days prior to the Annual Meeting or meet the deadline designated for electronic votes. The votes shall be counted electronically or by the Executive Vice President or his/her designee. The Council may canvass the votes. The Council shall report the election results to the membership at the Annual Meeting and in the annual report to the membership.
+The President-Elect, if necessary the President, and Councilors shall be elected by the members of the Society by a mail or electronic vote prior to the Annual Meeting. Candidates for Councilor receiving the most votes up to the number of positions on the Council to be filled shall be elected. Any vacated positions of uncompleted terms on the Council shall be filled by Council nominees receiving the most number of votes in the previous election.
+
+The Executive Vice President, Treasurer, Awards Director, Trustees and Program Director are elected by a mail or electronic vote of the Council. The candidate for each must receive a majority of affirmative ballots to be elected.
+
+All elections by mail or electronic vote are conducted by the Executive Vice President or his/her designee, who shall mail the appropriate ballots or initiate electronic voting to the general members and to the Council members at least two months prior to the Annual Meeting. To be valid, returned ballots must be postmarked at least 30 days prior to the Annual Meeting or meet the deadline designated for electronic votes. The votes shall be counted electronically or by the Executive Vice President or his/her designee. The Council may canvass the votes. The Council shall report the election results to the membership at the Annual Meeting and in the annual report to the membership.
 
 Section 3. Editor
 
-A Search Committee consisting of the President-Elect, serving as Chairperson, the President, and the most immediate Past-President shall find candidates or a single candidate for the position of Editor. Candidates may be recommended by the Editor or any Council member. The nomination process shall be initiated no later than the Annual Meeting of the first year of the current Editor’s tenure and shall be completed four months prior to the Annual Meeting at which the new Editor is elected. The report of the Search Committee for Editor shall be mailed to Councilors three months prior to the Annual Meeting. Election of the Editor shall be at a Council meeting at an Annual Meeting with Councilors voting for only one of the candidates. The candidate having a majority of votes is elected. If only one candidate is nominated, a twothirds majority of affirmative ballots is required for approval.
+A Search Committee consisting of the President-Elect, serving as Chairperson, the President, and the most immediate Past-President shall find candidates or a single candidate for the position of Editor. Candidates may be recommended by the Editor or any Council member. The nomination process shall be initiated no later than the Annual Meeting of the first year of the current Editor’s tenure and shall be completed four months prior to the Annual Meeting at which the new Editor is elected. The report of the Search Committee for Editor shall be mailed to Councilors three months prior to the Annual Meeting. Election of the Editor shall be at a Council meeting at an Annual Meeting with Councilors voting for only one of the candidates. The candidate having a majority of votes is elected. If only one candidate is nominated, a two-thirds majority of affirmative ballots is required for approval.
 
 ARTICLE IX. PUBLICATIONS
 
@@ -176,7 +180,9 @@ The Council shall determine the amount of annual dues and/or rates for all class
 
 Bylaw 2. Funds and Budget
 
-The financial records of the Society shall be maintained by, and its funds deposited and/or invested by, the Trustees under the direction of the Council. The Treasurer shall prepare and submit to the Council at the Annual Meeting an annual report and a budget for this coming fiscal year that shall be approved by the Council. The Society’s fiscal year shall be the calendar year unless otherwise designated by the Council.
+The financial records of the Society shall be maintained by, and its funds deposited and/or invested by, the Trustees under the direction of the Council. The Treasurer shall prepare and submit to the Council at the Annual Meeting an annual report and a budget for this coming fiscal year that shall be approved by the Council.
+
+The Society’s fiscal year shall be the calendar year unless otherwise designated by the Council.
 
 Bylaw 3. Nominations by Members
 
@@ -188,7 +194,11 @@ Recommendations for the offices of Executive Vice President, Treasurer, Program 
 
 Bylaw 5. Council Proceedings
 
-The regular meeting of the Council shall be held in conjunction with the Annual Meeting of the Society. A meeting of the Council may also be held for exceptional circumstances, at the call of its Chairperson or on written request of three Councilors, at any other time and place, provided that written notice of the time and place be mailed electronically or by post to each Councilor at least 30 days prior to that meeting. Five Councilors shall constitute a quorum of the Council for transaction of business at any regular or exceptional meetings. Business may be transacted by paper or electronic mail at the discretion of the Chairperson of the Council, provided that a majority of the Council votes. However, objection by three Councilors shall require deferment of action to the next regular Council meeting. A meeting of the executive council (President, Past President, President Elect, Executive Vice President, Program Director, Awards Director, Editor, Editor Elect, one Trustee, and relevant invitees) shall be held early in the New Year to set the agenda for the annual meeting and to discuss goals, progress, and evaluate finances. Proxy voting may not take place at regular or exceptional meetings of the Council or in mail votes.
+The regular meeting of the Council shall be held in conjunction with the Annual Meeting of the Society. A meeting of the Council may also be held for exceptional circumstances, at the call of its Chairperson or on written request of three Councilors, at any other time and place, provided that written notice of the time and place be mailed electronically or by post to each Councilor at least 30 days prior to that meeting. Five Councilors shall constitute a quorum of the Council for transaction of business at any regular or exceptional meetings.
+
+Business may be transacted by paper or electronic mail at the discretion of the Chairperson of the Council, provided that a majority of the Council votes. However, objection by three Councilors shall require deferment of action to the next regular Council meeting.
+
+A meeting of the executive council (President, Past President, President Elect, Executive Vice President, Program Director, Awards Director, Editor, Editor Elect, one Trustee, and relevant invitees) shall be held early in the New Year to set the agenda for the annual meeting and to discuss goals, progress, and evaluate finances. Proxy voting may not take place at regular or exceptional meetings of the Council or in mail votes.
 
 Bylaw 6. Endowment Committee
 
@@ -212,7 +222,9 @@ Sec. 2. All moneys received from Life Members and Patrons in consideration of th
 
 Sec. 3. Bequests and trusts having for their object the advancement of systematics or the welfare of the Society of Systematic Biologists may be accepted and administered by the Society. Before acceptance of any such trust, the Council shall consider the object of the trust and all conditions and specifications attached thereto, and shall report its action to the Society. Bequests shall be added to the reserve fund of the Society and managed by the Trustees. Trusts shall be managed as agreed to in the trust instruments.
 
-Sec. 4. Both the principal and income of the funded property of the Society shall be used solely to further study and dissemination of knowledge of systematics, as set forth in the name and Objects of the Society; but the funded property shall be administered and operated in such a manner that it will at all times maintain a tax exempt status under the provisions of the United States Internal Revenue Code, both for income tax and gift tax purposes. Bylaw 8. Awards in Systematic Biology Committee
+Sec. 4. Both the principal and income of the funded property of the Society shall be used solely to further study and dissemination of knowledge of systematics, as set forth in the name and Objects of the Society; but the funded property shall be administered and operated in such a manner that it will at all times maintain a tax exempt status under the provisions of the United States Internal Revenue Code, both for income tax and gift tax purposes.
+
+Bylaw 8. Awards in Systematic Biology Committee
 
 Section 1. Function
 
@@ -220,7 +232,9 @@ The Committee shall select the winners of four awards of the Society: 1) The Ern
 
 Section 2. Membership
 
-The Committee shall consist of at least three members: the Awards Director who assumes responsibility as committee chair, appointed for a three-year term as described above, and at least two additional members appointed annually by the Awards Director. The committee should include at least one person who served on a previous year’s Committee. Bylaw 9. Initiatives and Long-Range Planning Committee
+The Committee shall consist of at least three members: the Awards Director who assumes responsibility as committee chair, appointed for a three-year term as described above, and at least two additional members appointed annually by the Awards Director. The committee should include at least one person who served on a previous year’s Committee.
+
+Bylaw 9. Initiatives and Long-Range Planning Committee
 
 Section 1. Function
 
@@ -238,7 +252,9 @@ The Committee shall identify desirable policies for the Society’s publications
 
 Section 2. Membership
 
-The Committee shall consist of at least five members including a Chairperson, the Editor, the most recent past-Editor, the Managing Editor, and the Treasurer. Bylaw 11. Coordinating Committee
+The Committee shall consist of at least five members including a Chairperson, the Editor, the most recent past-Editor, the Managing Editor, and the Treasurer.
+
+Bylaw 11. Coordinating Committee
 
 Section 1. Function
 
@@ -246,7 +262,7 @@ The Committee shall coordinate future meeting plans with representative from oth
 
 Section 2. Membership
 
-The Committee shall consist of the President, President-Elect, Executive Vice- President, Treasurer, and Program Director, plus similar officers from the scientific societies with which the Society is coordinating
+The Committee shall consist of the President, President-Elect, Executive Vice-President, Treasurer, and Program Director, plus similar officers from the scientific societies with which the Society is coordinating
 
 Bylaw 12. Journal
 
@@ -262,7 +278,9 @@ There shall be an Endowment Fund (formerly called Patrons-Endowment Fund), which
 
 Bylaw 15. Amendment
 
-Amendments to the Bylaws may be proposed by any member of the Society by letter addressed to the Secretary at least two months prior to an Annual Meeting. Members of the Council may propose amendments at any Council meeting. Any proposed amendment to the Bylaws must be approved by a simple majority vote of the Council at a meeting or by mail or electronic mail ballot before it is submitted to the Society’s membership for vote. The Bylaws can be amended by a two-thirds majority of the Society’s members voting in a mail ballot or, in an emergency, by a two-thirds majority of members voting at an Annual Meeting.
+Amendments to the Bylaws may be proposed by any member of the Society by letter addressed to the Secretary at least two months prior to an Annual Meeting. Members of the Council may propose amendments at any Council meeting. Any proposed amendment to the Bylaws must be approved by a simple majority vote of the Council at a meeting or by mail or electronic mail ballot before it is submitted to the Society’s membership for vote.
+
+The Bylaws can be amended by a two-thirds majority of the Society’s members voting in a mail ballot or, in an emergency, by a two-thirds majority of members voting at an Annual Meeting.
 
 If approved by the Society membership, amendments to the Bylaws take effect at the end of the Annual Meeting following the vote.
 
@@ -274,6 +292,47 @@ HISTORY OF CONSTITUTION BYLAWS
 
 A temporary Constitution was adopted at the first meeting of the Society of Systematic Zoology on 29 December 1947. A permanent Constitution was adopted at the first Annual Business Meeting on 12 September 1948 (published in Society of Systematic Zoology News Letter, No. 3, November 1950). A series of constitutional changes were approved by the Council and published in the News Letter (No.4, April 1951); they were approved by the membership in 1951 (Syst. Zool. 1:39, 1952).
 
-Further actions reported in Systematic Zoology concerning the Constitution are as follows: 1966, revised Constitution approved (16:105, 1967); 1969, amendments (19:313-314, 1970) approved (19:311, 1970); 1971, amendment (20:475, 1971) on incorporation approved; 1973, amendments (22:208-209, 1973) approved (23:302, 1974); 1976, amendments (24:403- 405, 518-519, 1975) approved (24:518-519, 1975); 1977, updated Constitution published (26:253-256, 1977); 1978, emergency bylaw change approved (28:255-257, 1979); 1981, amendment (30:226-227, 1981) approved (31:237, 1982); 1982, some of proposed amendments (31:237, 1982) approved (32:100, 1983); 1983, updated Constitution published (32:103-106, 1983); 1984, numerous amendments approved (34:251, 1985); 1985, updated Constitution published (34:254-258, 1985); 1990, amendments on Society and journal names approved (40:251-252, 1991); this updated Constitution published (40:386-390, 1991); amendments on committees (46:770, 1997). Amendments on Article IV, VII, Extensive amendments to Bylaw 6, creation of bylaw 7, and renaming of bylaws 7-15 to 8-16. (2001); Constitution added to the Society Website in July 2004; Amendments to the Constitution proposed via electronic ballot April 2007 concerning the renaming of Secretary, Awards Chair, and Program Chair, changes related to January start date for officers, and spelling and wording simplification throughout. Approved by the membership May 2007 and posted on the website in June 2007 <www.systematicbiology.org>.
+Further actions concerning the Constitution are as follows (volume, page, and year for Systematic Zoology/Biology is provided for modifications reported in the journal):
 
-Three amendments to the Constitution were proposed via electronic ballot March 2008: 1) a statement was added under "Article IV. Officers" to read, "or until a successor is elected to that office" to match the description of officers terms elsewhere and to allow officers to be replaced if two-thirds of the council decides that the officers are not functioning effectively; 2) "ARTICLE VIII. NOMINATIONS AND ELECTIONS"- Wording was added to match the current practice that the nomination committee is appointed by the president elect, and that the president heads the nomination committee following the annual meetings; 3) "Bylaw 9. Initiatives and Long-Range Planning Committee"- Wording has been added to extend each term to five years to ensure greater continuity necessary for long range planning; this was requested by the executive committee at their March 08 meeting. These changes were approved by a majority of members voting electronically March-May 2008 and placed on the Society website in June of 2008.
+1966: revised Constitution approved (16:105, 1967).
+
+1969: amendments (19:313-314, 1970) approved (19:311, 1970).
+
+1971: amendment (20:475, 1971) on incorporation approved.
+
+1973: amendments (22:208-209, 1973) approved (23:302, 1974).
+
+1976: amendments (24:403-405, 518-519, 1975) approved (24:518-519, 1975).
+
+1977: updated Constitution published (26:253-256, 1977).
+
+1978: emergency bylaw change approved (28:255-257, 1979).
+
+1981: amendment (30:226-227, 1981) approved (31:237, 1982).
+
+1982: some of proposed amendments (31:237, 1982) approved (32:100, 1983).
+
+1983: updated Constitution published (32:103-106, 1983).
+
+1984: numerous amendments approved (34:251, 1985).
+
+1985: updated Constitution published (34:254-258, 1985).
+
+1990: amendments on Society and journal names approved (40:251-252, 1991).
+
+1991: this updated Constitution published (40:386-390, 1991).
+
+1997: amendments on committees (46:770, 1997).
+
+2001: amendments on Article IV, VII, extensive amendments to Bylaw 6, creation of bylaw 7, and renaming of bylaws 7-15 to 8-16. (2001).
+
+2004: constitution added to the Society Website in July 2004.
+
+2007: amendments to the Constitution proposed via electronic ballot April 2007 concerning the renaming of Secretary, Awards Chair, and Program Chair, changes related to January start date for officers, and spelling and wording simplification throughout. Approved by the membership May 2007 and posted on the website in June 2007 <www.systematicbiology.org>.
+
+2008: three amendments to the Constitution were proposed via electronic ballot March 2008:
+    1) a statement was added under "Article IV. Officers" to read, "or until a successor is elected to that office" to match the description of officers terms elsewhere and to allow officers to be replaced if two-thirds of the council decides that the officers are not functioning effectively; \
+    2) "ARTICLE VIII. NOMINATIONS AND ELECTIONS"- Wording was added to match the current practice that the nomination committee is appointed by the president elect, and that the president heads the nomination committee following the annual meetings;
+    3) "Bylaw 9. Initiatives and Long-Range Planning Committee"- Wording has been added to extend each term to five years to ensure greater continuity necessary for long range planning; this was requested by the executive committee at their March 08 meeting. These changes were approved by a majority of members voting electronically March-May 2008 and placed on the Society website in June of 2008.
+
+2015: constitution put under version control at GitHub (user systbiol) along with other documents (Feb. 16, 2015). See https://github.com/systbiol/docs.
