@@ -1,0 +1,68 @@
+1948    None
+1949    None
+1950    None
+1951    None
+1952    Blackwelder   R   E
+1953    Blackwelder   R   E
+1954    Blackwelder   R   E
+1955    Blackwelder   R   E
+1956    Camin J   H
+1957    Camin J   H
+1958    Camin J   H
+1959    Blackwelder   R   E
+1960    Hobbs, Jr.    H   H
+1961    Hobbs, Jr.    H   H
+1962    Hobbs, Jr.    H   H
+1963    Rosewater    J
+1964    Rosewater    J
+1965    Rosewater    J
+1966    Jones   Meredith    L
+1967    Jones   Meredith    L
+1968    Jones   Meredith    L
+1969    Taylor   William R
+1970    Taylor   William R
+1971    Taylor   William R
+1972    Knutson    Lloyd   V
+1973    Knutson    Lloyd   V
+1974    Knutson    Lloyd   V
+1975    Thorington, Jr.  Richard W
+1976    Thorington, Jr.  Richard W
+1977    Thorington, Jr.  Richard W
+1978    Springer  Victor  G
+1979    Springer  Victor  G
+1980    Springer  Victor  G
+1981    Nickle David   A
+1982    Nickle David   A
+1983    Nickle David   A
+1984    Nickle David   A
+1985    Nickle David   A
+1986    Nickle David   A
+1987    Nickle David   A
+1988    McDiarmid    Roy W
+1989    McDiarmid    Roy W
+1990    McDiarmid    Roy W
+1991    McDiarmid    Roy W
+1992    McDiarmid    Roy W
+1993    McDiarmid    Roy W
+1994    McDiarmid    Roy W
+1995    Funk  Vicky
+1996    Funk  Vicky
+1997    Funk  Vicky
+1998    Funk  Vicky
+1999    McKitrick  Mary
+2000    McKitrick  Mary
+2001    O'Grady Richard
+2002    O'Grady Richard
+2003    O'Grady Richard
+2004    O'Grady Richard
+2005    Funk  Vicky
+2006    Funk  Vicky
+2007    Mindell David   P
+2008    Mindell David   P
+2009    Mindell David   P
+2010    Whitfield   Jim
+2011    Whitfield   Jim
+2012    Whitfield   Jim
+2013    Shaffer Brad
+2014    Shaffer Brad
+2015    Shaffer Brad

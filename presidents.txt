@@ -1,0 +1,68 @@
+1948    Schmidt W   L
+1949    Schmidt W   L
+1950    Petrunkevitch   A
+1951    Hubbs   C   L
+1952    Romer   Alfred  S
+1953    Hungerford  H   B
+1954    Stunkard    H   W
+1955    Klauber L   M
+1956    Wharton G   W
+1957    Moore   R   C
+1958    Emerson A   E
+1959    Hyman   Libbie  H
+1960    Follett W   I
+1961    Blackwelder R   E
+1962    Sabrosky    Curtis  W
+1963    Simpson G   G
+1964    Pennak  Robert  W
+1965    Smith   Hobart  M
+1966    Mayr    Ernst
+1967    Usinger Robert  L
+1968    Illg    Paul    L
+1969    Michener    Charles D
+1970    Corliss John    O
+1971    Inger   Robert  F
+1972    Newell  Norman  D
+1973    Ross    Herbert H
+1974    Downs   Theodore
+1975    Downs   Theodore
+1976    Rosen   Donn    E
+1977    Rosen   Donn    E
+1978    Johnston    Richard F
+1979    Johnston    Richard F
+1980    Olson   Everett C
+1981    Olson   Everett C
+1982    Slater  James   A
+1983    Slater  James   A
+1984    Hull    David   L
+1985    Hull    David   L
+1986    Nelson  Gareth
+1987    Wiley, III  Edward  O
+1988    Hoffmann    Robert  S
+1989    Hoffmann    Robert  S
+1990    Fink    William L
+1991    Novacek Michael J
+1992    Novacek Michael J
+1993    Cracraft    Joel
+1994    Hillis  David   M
+1995    Donoghue    Michael J
+1996    Savage  Jay M
+1997    Miyamoto    Michael M
+1998    Miyamoto    Michael M
+1999    Maddison    David
+2000    Maddison    David
+2001    de Queiroz  Kevin
+2002    Kellogg Elizabeth
+2003    Sanderson   Mike
+2004    Cannatella  David
+2005    Soltis  Pamela  S
+2006    Edwards Scott   V
+2007    Simon   Chris
+2008    Penny   David
+2009    Huelsenbeck John
+2010    Crandall    Keith   A
+2011    Mindell David
+2012    Sullivan    Jack
+2013    Knowles Lacey
+2014    Sites   Jack
+2015    Lewis   Paul O
