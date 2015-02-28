@@ -1,0 +1,68 @@
+1948    None
+1949    None
+1950    None
+1951    None
+1952    None
+1953    None
+1954    None
+1955    None
+1956    None
+1957    None
+1958    None
+1959    None
+1960    Lytle   C   F
+1961    Lytle   C   F
+1962    Lytle   C   F
+1963    None
+1964    Rozen   Jerome  G
+1965    Rozen   Jerome  G
+1966    Higgins Robert  P
+1967    Higgins Robert  P
+1968    Higgins Robert  P
+1969    Simon   Joseph  L
+1970    Simon   Joseph  L
+1971    Simon   Joseph  L
+1972    Simon   Joseph  L
+1973    Slater  James
+1974    Slater  James
+1975    McKenna Malcolm C
+1976    McKenna Malcolm C
+1977    McKenna Malcolm C
+1978    Farris  James   S
+1979    Farris  James   S
+1980    Farris  James   S
+1981    Kluge   Arnold  G
+1982    Kluge   Arnold  G
+1983    Kluge   Arnold  G
+1984    Wheeler Quentin
+1985    Wheeler Quentin
+1986    Wheeler Quentin
+1987    Wheeler Quentin
+1988    Cracraft    Joel
+1989    Cracraft    Joel
+1990    Cracraft    Joel
+1991    Donoghue    Michael J
+1992    Donoghue    Michael J
+1993    Donoghue    Michael J
+1994    Cannatella    David   C
+1995    Cannatella    David   C
+1996    Simon   Chris
+1997    Simon   Chris
+1998    Simon   Chris
+1999    Mindell David   P
+2000    Mindell David   P
+2001    Mindell David   P
+2002    Johnson   Kevin
+2003    Johnson   Kevin
+2004    Johnson   Kevin
+2005    Johnson   Kevin
+2006    Weiblen George
+2007    Weiblen George
+2008    Weiblen George
+2009    Weiblen George
+2010    Zamudio Kelly
+2011    Zamudio Kelly
+2012    Zamudio Kelly
+2013    Carstens    Bryan
+2014    Carstens    Bryan
+2015    Smith   Stacey
