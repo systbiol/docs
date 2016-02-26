@@ -1,57 +1,13 @@
-1948    None
-1949    None
-1950    None
-1951    None
-1952    None
-1953    None
-1954    None
-1955    None
-1956    None
-1957    None
-1958    None
-1959    None
-1960    None
-1961    None
-1962    None
-1963    None
-1964    None
-1965    None
-1966    None
-1967    None
-1968    None
-1969    None
-1970    None
-1971    None
-1972    None
-1973    None
-1974    None
-1975    None
-1976    None
-1977    None
-1978    None
-1979    None
-1980    None
-1981    None
-1982    None
-1983    None
-1984    None
-1985    None
-1986    None
-1987    None
-1988    None
-1989    None
-1990    None
-1991    None
-1992    None
-1993    None
-1994    None
-1995    None
-1996    None
-1997    None
-1998    None
-1999    None
-2000    None
-2001    None
+===================================
+Exectutive Vice President duties
+===================================
+- elected by Council
+- 3 year term
+- serves as chair of Council if neither President nor President-elect are available
+
+===================================
+List of Exectutive Vice Presidents
+===================================
 2002    Cunningham  Cliff
 2003    Cunningham  Cliff
 2004    Crandall    Keith
