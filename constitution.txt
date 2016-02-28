@@ -1,98 +1,4 @@
-Key to special comments:
-    |* comment *|
-    |+ proposed addition +|
-    |- proposed deletion -|
-
-|* At summer 2015 council meeting, Smith volunteered to write bylaw pertaining to premeeting workshops being treated as 3rd symposium *|
-
-====================================================
-Table of Contents
-====================================================
-ARTICLE I. NAME
-ARTICLE II. OBJECT AND OPERATION
-ARTICLE III. MEMBERSHIP
-    Section 1. Eligibility
-    Section 2. Membership
-    Section 3. Dues
-    Section 4. Rights of Membership
-    Section 5. Suspension and Reinstatement
-    Section 6. Emeritus Membership
-    Section 7. Patrons
-    Section 8. Honorary Members
-    Section 9. Sustaining Members
-    Section 10. Family Membership
-    Section 11. Student Members
-ARTICLE IV. OFFICERS
-    Section 1. Officers
-    Section 2. President
-    Section 3. President-Elect
-    Section 4. Vacancies in the Offices of President and President-Elect
-    Section 5. Other Officers
-ARTICLE V. COUNCIL
-    Section 1. Authority
-    Section 2. Membership
-    Section 3. Chairmanship
-    Section 4. Powers
-    Section 5. Duties
-    Section 6. Prohibitions
-ARTICLE VI. MEETINGS
-ARTICLE VII. COMMITTEES
-    Section 1.
-ARTICLE VIII. NOMINATIONS AND ELECTIONS
-    Section 1. Nominations
-    Section 2. Elections
-    Section 3. Editor
-ARTICLE IX. PUBLICATIONS
-ARTICLE X. AFFILIATION
-ARTICLE XI. BYLAWS
-    Section 1. Function
-ARTICLE XII. DISTRIBUTION UPON DISSOLUTION
-ARTICLE XIII. AMENDMENTS
-    Section 1. Method
-    Section 2. Proposals and Consideration
-    Section 3. Time of Effect
-ARTICLE XIV. ENABLING ARTICLE
-    Section 1. Effective Date
-    Section 2. Continuity
-BYLAWS OF THE SOCIETY OF SYSTEMATIC BIOLOGISTS
-    Bylaw 1. Dues and Membership Rights
-    Bylaw 2. Funds and Budget
-    Bylaw 3. Nominations by Members
-    Bylaw 4. Recommendations by Councilors
-    Bylaw 5. Council Proceedings
-    Bylaw 6. Endowment Committee
-        Section 1. Function
-        Section 2. Membership
-        Section 3. Operations
-    Bylaw 7. Reserve Fund
-        Sec. 1
-        Sec. 2
-        Sec. 3
-        Sec. 4
-    Bylaw 8. Awards in Systematic Biology Committee
-        Section 1. Function
-        Section 2. Membership
-    Bylaw 9. President's Award and Publisher's Award
-    Bylaw 10. Initiatives and Long-Range Planning Committee
-        Section 1. Function
-        Section 2. Membership
-    Bylaw 11. Publications Committee
-        Section 1. Function
-        Section 2. Membership
-    Bylaw 12. Coordinating Committee
-        Section 1. Function
-        Section 2. Membership
-    Bylaw 13. Journal
-    Bylaw 14. Appeal of Editorial Decisions
-    Bylaw 15. Endowment Fund
-    Bylaw 16. Amendment
-    Bylaw 17. History of Constitution and Bylaws
-    Bylaw 18. Communications Committee
-HISTORY OF CONSTITUTION AND BYLAWS
-
-====================================================
 CONSTITUTION OF THE SOCIETY OF SYSTEMATIC BIOLOGISTS
-====================================================
 
 ARTICLE I. NAME
 
@@ -227,18 +133,18 @@ of the Society until the next annual election.
 
 Section 5. Other Officers
 
-The Executive Vice President, Treasurer, Program Director, Awards Director,
-|+Communications Director+|, and Editor are elected by the council and each shall normally serve for a
-three-year term, and thereafter may be reelected for successive terms of one
-year. They shall discharge the customary duties of their respective offices,
-under the direction of the President and be responsible to the Council. They
-shall be governed by such rules and regulations, in addition to the Constitution
-and Bylaws, as the Council may promulgate. A vacancy in these offices may be
-filled by the Council with an interim appointee, and a regular replacement shall
-be elected and take office at the beginning of the calendar year. The editor
-elect serves one year concurrently with the outgoing editor. The editor elect
-receives manuscripts and the outgoing editor fills the journal with previously
-received manuscripts.
+The Executive Vice President, Treasurer, Program Director, Awards Director, and
+Editor are elected by the council and each shall normally serve for a three-year
+term, and thereafter may be reelected for successive terms of one year. They
+shall discharge the customary duties of their respective offices, under the
+direction of the President and be responsible to the Council. They shall be
+governed by such rules and regulations, in addition to the Constitution and
+Bylaws, as the Council may promulgate. A vacancy in these offices may be filled
+by the Council with an interim appointee, and a regular replacement shall be
+elected and take office at the beginning of the calendar year. The editor elect
+serves one year concurrently with the outgoing editor. The editor elect receives
+manuscripts and the outgoing editor fills the journal with previously received
+manuscripts.
 
 ARTICLE V. COUNCIL
 
@@ -248,7 +154,17 @@ The government and operation of the Society shall be vested in a Council.
 
 Section 2. Membership
 
-The Council shall consist of the President, the President-Elect, the most immediate living Past-President, the Executive Vice President, Treasurer, Program Director, Awards Director, |+Communications Director,+| Editor of the Society’s principal journal, |- and 15 elected Councilors,-| |+and 18 elected Councilors, 3 of whom must be graduate students at the time they were elected.+| Each elected Councilor shall serve for three years taking office at the beginning of the calendar year following the election. |-Five-| |+Six+| Councilors |+(one being a Graduate Student Councilor)+| shall be elected each year to provide three classes serving staggered terms on the Council. Any vacancy among elected Councilors shall be filled by the normal procedure for electing Councilors at the next annual election. An elected Councilor shall not be eligible for reelection for one year after completing a full term of service. Elected Councilors must be members of the Society. Graduate Students who have successfully passed the qualifying exam are eligible to be nominated. |+Elected Graduate Student Councilors are able to continue their term into a postdoctoral or faculty position.+|
+The Council shall consist of the President, the President-Elect, the most
+immediate living Past-President, the Executive Vice President, Treasurer,
+Program Director, Awards Director, Editor of the Society’s principal journal,
+and 15 elected Councilors. Each elected Councilor shall serve for three years
+taking office at the beginning of the calendar year following the election. Five
+Councilors shall be elected each year to provide three classes serving staggered
+terms on the Council. Any vacancy among elected Councilors shall be filled by
+the normal procedure for electing Councilors at the next annual election. An
+elected Councilor shall not be eligible for reelection for one year after
+completing a full term of service. Elected Councilors must be members of the
+Society.
 
 Section 3. Chairmanship
 
@@ -291,7 +207,6 @@ ARTICLE VII. COMMITTEES
 
 Section 1.
 
-|* needs to be re-evaluated *|
 The following Committees shall be appointed by the President pursuant to the
 conditions provided elsewhere in this Constitution and/or in the by-laws: Awards
 in Systematic Biology, Initiatives and Long-range Planning, Nominating,
@@ -303,7 +218,6 @@ ARTICLE VIII. NOMINATIONS AND ELECTIONS
 
 Section 1. Nominations
 
-|* timing here is not what has been used in practice *|
 All officers (except the Editor and Trustees) and all Councilors shall be
 nominated by a Nominating Committee comprising three members. Each President
 just before the time of the annual meeting will nominate one SSB member, who is
@@ -311,14 +225,14 @@ not a member of the council, to the nominating committee. Each nominating
 committee member will serve three years. In the third year of his or her term,
 the member will head the nominating committee. The past president will serve in
 an advisory role. The committee reports to the Council via the Executive Vice
-President. The committee will work from September-January to assemble the
+President. The committee will work from September-January [7][8]to assemble the
 ballot including any constitutional amendments approved by the council. The
 ballot must be finalized and approved by the council by the beginning of March.
 Elections must be held at least two months prior to the annual meeting. The
 Committee shall secure two candidates or more for each position to be elected by
 the general membership (President-Elect, Councilors, and if necessary
 President), and one or more candidates for each position to be elected by the
-Council (Executive Vice President, Treasurer, Awards Director, |+Communications Director,+| and Program
+Council (Executive Vice President, Treasurer, Awards Director, and Program
 Director). Five members of the Society may nominate a candidate for
 President-Elect (and if necessary, President) or Councilor (see Bylaw 3). Any
 Councilor may nominate a candidate for Executive Vice President, Treasurer,
@@ -336,7 +250,7 @@ positions on the Council to be filled shall be elected. Any vacated positions of
 uncompleted terms on the Council shall be filled by Council nominees receiving
 the most number of votes in the previous election.
 
-The Executive Vice President, Treasurer, Awards Director, |+Communications Director, +| Trustees and Program
+The Executive Vice President, Treasurer, Awards Director, Trustees and Program
 Director are elected by a mail or electronic vote of the Council. The candidate
 for each must receive a majority of affirmative ballots to be elected.
 
@@ -414,7 +328,7 @@ members in good standing voting in a mail or electronic ballot.
 Section 2. Proposals and Consideration
 
 An amendment may be proposed by any member of the Society by a letter addressed
-to the Executive Vice President |-at least two months prior to an Annual Meeting-|.
+to the Executive Vice President at least two months prior to an Annual Meeting.
 Members of the Council may propose amendments at any Council Meeting. Any
 proposed amendment to the Constitution must be approved by a two-thirds majority
 vote of the Council at a meeting before it is submitted to the Society
@@ -486,7 +400,7 @@ Annual Meeting.
 Bylaw 4. Recommendations by Councilors
 
 Recommendations for the offices of Executive Vice President, Treasurer, Program
-Director, Awards Director, |+Communications Director+| and Editor Elect may be made by Councilors. Such
+Director, Awards Director, and Editor Elect may be made by Councilors. Such
 recommendations shall consist of a brief statement of the qualifications of the
 nominee and evidence that the nominee is willing to serve, and shall be sent to
 the Chairperson of the Search Committee at least two months before the committee
@@ -509,7 +423,7 @@ However, objection by three Councilors shall require deferment of action to the
 next regular Council meeting.
 
 A meeting of the executive council (President, Past President, President Elect,
-Executive Vice President, Program Director, Awards Director, |+Communications Director,+| Editor, Editor
+Executive Vice President, Program Director, Awards Director, Editor, Editor
 Elect, one Trustee, and relevant invitees) shall be held early in the New Year
 to set the agenda for the annual meeting and to discuss goals, progress, and
 evaluate finances.
@@ -599,19 +513,7 @@ described above, and at least two additional members appointed annually by the
 Awards Director. The committee should include at least one person who served on
 a previous year’s Committee.
 
-Bylaw 9. Presidents’ Award Committee
-
-Section 1. Function
-
-The Committee shall select the winner of the Presidents’ Award For Lifetime Achievement. The Presidents’ Award is given at intervals of at least 3 years to a person (or persons) notable for their past service to the Society.
-
-Section 2. Membership
-
-The Committee shall consist of the President (chair), President-Elect, and Past-President
-
-Bylaw 10. Initiatives and Long-Range Planning Committee
-
-|* is this committee still functioning? *|
+Bylaw 9. Initiatives and Long-Range Planning Committee
 
 Section 1. Function
 
@@ -626,9 +528,7 @@ have staggered five-year terms. A new member will be appointed each year by the
 President and approved by the Council. The Chairperson of the Committee will
 serve a five-year term and may be re-appointed.
 
-Bylaw 11. Publications Committee
-
-|* is this committee still functioning? *|
+Bylaw 10. Publications Committee
 
 Section 1. Function
 
@@ -645,9 +545,7 @@ Section 2. Membership
 The Committee shall consist of at least five members including a Chairperson,
 the Editor, the most recent past-Editor, the Managing Editor, and the Treasurer.
 
-Bylaw 12. Coordinating Committee
-
-|* is this committee still functioning? *|
+Bylaw 11. Coordinating Committee
 
 Section 1. Function
 
@@ -660,14 +558,14 @@ The Committee shall consist of the President, President-Elect, Executive Vice
 President, Treasurer, and Program Director, plus similar officers from the
 scientific societies with which the Society is coordinating.
 
-Bylaw 13. Journal
+Bylaw 12. Journal
 
 The principal journal of the Society shall be called Systematic Biology and
 shall be managed by an Editor who is elected by and is responsible to the
 President and Council. Appointment of an Editorial Board and Associate Editors
 is the responsibility of the Editor, with approval of the Council.
 
-Bylaw 14. Appeal of Editorial Decisions
+Bylaw 13. Appeal of Editorial Decisions
 
 A contributor to the journal may appeal to the Council to overrule editorial
 decisions made concerning his or her manuscript. In case of such an appeal the
@@ -678,7 +576,7 @@ appropriate. If the Council determines that the appeal is without merit, this
 finding together with any explanatory information that the Council deems
 suitable shall be included in the minutes of the meeting.
 
-Bylaw 15. Endowment Fund
+Bylaw 14. Endowment Fund
 
 There shall be an Endowment Fund (formerly called Patrons-Endowment Fund), which
 shall consist of contributions from members, proceeds from sale of back issues
@@ -689,7 +587,7 @@ Society’s journal. The principal of the Fund may be used for the same purposes
 if authorized by a majority vote, which may be conducted by mail or electronic
 mail, of all voting members of the Council.
 
-Bylaw 16. Amendment
+Bylaw 15. Amendment
 
 Amendments to the Bylaws may be proposed by any member of the Society by letter
 addressed to the Secretary at least two months prior to an Annual Meeting.
@@ -703,28 +601,12 @@ voting in a mail ballot or, in an emergency, by a two-thirds majority of members
 voting at an Annual Meeting. If approved by the Society membership, amendments
 to the Bylaws take effect at the end of the Annual Meeting following the vote.
 
-Bylaw 17. History of Constitution and Bylaws
+Bylaw 16. History of Constitution and Bylaws
 
 The Constitution and Bylaws will be followed by a statement of when they were
 adopted initially, and of their publication in Systematic Biology, followed by
 dates of major modifications and dates of publication in Systematic Biology, and
 lastly by the date of this revision plus its publication.
-
-Bylaw 18. Communications Committee
-
-Section 1. Function
-
-The Committee will be responsible for outreach for the Society through the Society's
-web site and other social media outlets. The Committee will administer the Society's web
-site, renew the domain names systbio.org, systbiol.org, systematicbiology.org when
-necessary, and oversee contributions to the web site and social media accounts by Committee
-members as well as other Council members that have been given editing privileges.
-
-Section 2. Membership
-
-The Committee shall consist of Communications Director (chair) and at least two additional
-members appointed annually by the Awards Director. The committee should include at least
-one person who served on the Committee in the previous year.
 
 HISTORY OF CONSTITUTION AND BYLAWS
 
@@ -796,7 +678,5 @@ executive committee at their March 08 meeting. These changes were approved by a
 majority of members voting electronically March-May 2008 and placed on the
 Society website in June of 2008.
 
-2015: Constitution put under version control at GitHub along with other documents (Feb. 16, 2015). See https://github.com/systbiol/docs. Amendments to Article IV (section 5) and Article V (section 2) made to add Communications Director and Graduate Student Councilors. Bylaws 9-16 renumbered to 10-17 in order to add a new Bylaw 9 (Presidents’ Award Committee).
-
-2016: Added Bylaw 17 defining the role of the Communications Committee and Communication
-Director.
+2015: Constitution put under version control at GitHub (user systbiol) along
+with other documents (Feb. 16, 2015). See https://github.com/systbiol/docs.
