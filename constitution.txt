@@ -124,13 +124,13 @@ ARTICLE VIII. NOMINATIONS AND ELECTIONS
 
 Section 1. Nominations
 
-All officers (except the Editor and Trustees) and all Councilors shall be nominated by a Nominating Committee comprising three members. Student representatives will be self-nominated, and will communicate their willingness to serve and their interest in serving through the formal application process above to the current student representatives. Each President just before the time of the annual meeting will nominate one SSB member, who is not a member of the council, to the nominating committee. Each nominating committee member will serve three years. In the third year of his or her term, the member will head the nominating committee. The past president will serve in an advisory role. The committee reports to the Council via the Executive Vice President. The committee will work from September-January to assemble the ballot including any constitutional amendments approved by the council. The ballot must be finalized and approved by the council by the beginning of March. Elections must be held at least two months prior to the annual meeting. The Committee shall secure two candidates or more for each position to be elected by the general membership (President-Elect, Councilors, and if necessary President), and one or more candidates for each position to be elected by the Council (Executive Vice President, Treasurer, Awards Director, and Program Director). Five members of the Society may nominate a candidate for
+All officers (except the Editor and Trustees) and all Councilors shall be nominated by a Nominating Committee comprising three members. Student representatives will be self-nominated, and will communicate their willingness to serve and their interest in serving through the formal application process above to the current student representatives. Each President just before the time of the Annual Meeting will nominate one SSB member, who is not a member of the council, to the nominating committee. Each nominating committee member will serve three years. In the third year of his or her term, the member will head the nominating committee. The past president will serve in an advisory role. The committee reports to the Council via the Executive Vice President. The committee will work from September-January to assemble the ballot including any constitutional amendments approved by the council. The ballot must be finalized and approved by the council by the beginning of March. Elections must be held at least two months prior to the Annual Meeting. The Committee shall secure two candidates or more for each position to be elected by the general membership (President-Elect, Councilors, and if necessary President), and one or more candidates for each position to be elected by the Council (Executive Vice President, Treasurer, Awards Director, and Program Director). Five members of the Society may nominate a candidate for
 President-Elect (and if necessary, President) or Councilor (see Bylaw 3). Any
 Councilor may nominate a candidate for Executive Vice President, Treasurer, Awards Director or Program Director (see Bylaw 4). The ballot should be finalized and sent to the council for approval by 15 March of each year. The membership shall be informed of the names of all nominees at least three months prior to the Annual Meeting.
 
 Section 2. Elections
 
-The President-Elect, if necessary the President, Councilors and student representatives shall be elected by the members of the Society by a mail or electronic vote prior to the Annual Joint Meeting. Candidates for Councilor receiving the most votes up to the number of positions on the Council to be filled shall be elected. Any vacated positions of uncompleted terms on the Council shall be filled by Council nominees receiving the most number of votes in the previous election.
+The President-Elect, if necessary the President, Councilors and student representatives shall be elected by the members of the Society by a mail or electronic vote prior to the Annual Meeting. Candidates for Councilor receiving the most votes up to the number of positions on the Council to be filled shall be elected. Any vacated positions of uncompleted terms on the Council shall be filled by Council nominees receiving the most number of votes in the previous election.
 
 The Executive Vice President, Treasurer, Awards Director, Trustees and Program Director are elected by a mail or electronic vote of the Council. The candidate for each must receive a majority of affirmative ballots to be elected.
 
@@ -138,7 +138,7 @@ All elections by mail or electronic vote are conducted by the Executive Vice Pre
 
 Section 3. Editor
 
-A Search Committee consisting of the President-Elect, serving as Chairperson, the President, and the most immediate Past-President shall find candidates or a single candidate for the position of Editor. Candidates may be recommended by the Editor or any Council member. The nomination process shall be initiated no later than the Annual Meeting of the first year of the current Editor’s tenure and shall be completed four months prior to the Annual Meeting at which the new Editor is elected. The report of the Search Committee for Editor shall be mailed to Councilors three months prior to the Annual Meeting. Election of the Editor shall be at a Council meeting at an Annual Meeting with Councilors voting for only one of the candidates. The candidate having a majority of votes is elected. If only one candidate is nominated, a two-thirds majority of affirmative ballots is required for approval.
+A Search Committee consisting of the President-Elect, serving as Chairperson, the President, and the most immediate Past-President shall find candidates or a single candidate for the position of Editor. Candidates may be recommended by the Editor or any Council member. The nomination process shall be initiated no later than the Annual Meeting of the first year of the current Editor’s tenure and shall be completed four months prior to the Annual Meeting at which the new Editor is elected. The report of the Search Committee for Editor shall be mailed to Councilors three months prior to the Annual Meeting. Election of the Editor shall be at an Annual Meeting with Councilors voting for only one of the candidates. The candidate having a majority of votes is elected. If only one candidate is nominated, a two-thirds majority of affirmative ballots is required for approval.
 
 ARTICLE IX. PUBLICATIONS
 
@@ -166,7 +166,7 @@ This Constitution can be amended only by a two-thirds majority of those Society 
 
 Section 2. Proposals and Consideration
 
-An amendment may be proposed by any member of the Society by a letter addressed to the Executive Vice President at least two months prior to an Annual Meeting. Members of the Council may propose amendments at any Council Meeting. Any proposed amendment to the Constitution must be approved by a two-thirds majority vote of the Council at a meeting before it is submitted to the Society membership for vote.
+An amendment may be proposed by any member of the Society by a letter addressed to the Executive Vice President at least two months prior to an Annual Meeting. Members of the Council may propose amendments at any Annual Meeting. Any proposed amendment to the Constitution must be approved by a two-thirds majority vote of the Council at a meeting before it is submitted to the Society membership for vote.
 
 Section 3. Time of Effect
 
@@ -204,14 +204,14 @@ Recommendations for the offices of Executive Vice President, Treasurer, Program 
 
 Bylaw 5. Council Proceedings
 
-The regular meeting of the Council shall be held in conjunction with the Annual
-Joint Meeting of the Society. A meeting of the Council may also be held for exceptional circumstances, at the call of its Chairperson or on written request of three Councilors, at any other time and place, provided that written notice of the time and place be mailed electronically or by post to each Councilor at least 30 days prior to that meeting. Five Councilors shall constitute a quorum of the Council for transaction of business at any regular or exceptional meetings.
+The Annual Meeting of the Council shall be held in conjunction with an Annual
+ Meeting of the Society. A meeting of the Council may also be held for exceptional circumstances, at the call of its Chairperson or on written request of three Councilors, at any other time and place, provided that written notice of the time and place be mailed electronically or by post to each Councilor at least 30 days prior to that meeting. Five Councilors shall constitute a quorum of the Council for transaction of business at any regular or exceptional meetings.
 
 Business may be transacted by paper or electronic mail at the discretion of the Chairperson of the Council, provided that a majority of the Council votes. Any motion receiving a majority of affirmative votes shall pass.
 
 A meeting of the executive council (President, Past President, President Elect, Executive Vice President, Program Director, Awards Director, Editor, Editor Elect, one Trustee, and relevant invitees) shall be held early in the New Year to set the agenda for the annual meeting and to discuss goals, progress, and evaluate finances.
 
-Proxy voting may not take place at regular or exceptional meetings of the Council or in mail votes.
+Proxy voting may not take place at the Annual Meeting or at exceptional meetings of the Council or in mail votes.
 
 Bylaw 6. Endowment Committee
 
@@ -221,7 +221,7 @@ A Board of three Trustees, nominated by the President and elected by the Council
 
 Section 2. Membership
 
-One Trustee shall be appointed for a term of three (3) years at each annual meeting. Trustees may serve multiple consecutive terms. The Trustees shall select their Chairman. Vacancies among the Trustees may be filled by election at any time by a majority vote of the council voting.
+One Trustee shall be appointed for a term of three (3) years at each Annual Meeting. Trustees may serve multiple consecutive terms. The Trustees shall select their Chairman. Vacancies among the Trustees may be filled by election at any time by a majority vote of the council voting.
 
 Section 3. Operations
 
@@ -241,7 +241,7 @@ Bylaw 8. Awards in Systematic Biology Committee
 
 Section 1. Function
 
-The Committee shall select the winners of four awards of the Society: 1) The Ernst Mayr Award in Systematic Biology given for the outstanding paper presented at the annual meeting by a student member of the Society or a member who has received the Ph.D. degree within the last 15 months; 2) the Awards for Graduate Student Research, which are given to assist students in the first two years of their systematics projects to aid in the collection of preliminary data needed to pursue additional sources of support; 3) The Mini-PEET awards to enhance expertise in taxonomy by transferring knowledge from older to younger taxonomists; and 4) Travel Awards to attend systematics workshops.
+The Committee shall select the winners of four awards of the Society: 1) The Ernst Mayr Award in Systematic Biology given for the outstanding paper presented at the Annual Meeting by a student member of the Society or a member who has received the Ph.D. degree within the last 15 months; 2) the Awards for Graduate Student Research, which are given to assist students in the first two years of their systematics projects to aid in the collection of preliminary data needed to pursue additional sources of support; 3) The Mini-PEET awards to enhance expertise in taxonomy by transferring knowledge from older to younger taxonomists; and 4) Travel Awards to attend systematics workshops.
 
 Section 2. Membership
 
