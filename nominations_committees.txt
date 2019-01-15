@@ -5,6 +5,10 @@ Nominations Committee duties
 - 3 year term
 - serve as chair in 3rd year
 
+September-October of the previous year:
+- list positions in need of nomination
+- announce requests for nominations (due January)
+
 January-February
 - assemble ballot for positions elected by membership:
     - 5 new council members
@@ -15,8 +19,7 @@ January-February
     - Awards Director (if necessary)
     - Communications Director (if necessary)
     - Program Director (if necessary)
-
-Director
+    - Joint Meeting Committe representative (if necessary)
 
 March
 - ballot finalized and approved by council by March 15
@@ -42,4 +45,11 @@ List of Nominations Committees
         Simon   Chris
 2018    Thompson    Bob (chair)
         Simon   Chris
-        ? (to be appointed at Evolution meetings in Portland by Luke Harmon)
+        Lagomarsino, Laura
+2019    Chris Simon (chair)
+        Laura Lagomarsino
+        Corrie Moreau
+2020    Laura Lagomarsino (chair)
+        Corrie Moreau
+        ? (to be appointed at 2019 Evolution meetings by Cecile Ane)
+        
