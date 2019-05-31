@@ -40,7 +40,14 @@
     * Pass the names of the delinquents/non-responders on to conference organizers
 
 ## Website
- - Renew website hosting (July)
+
+ - Renew website hosting (July)  
+   SSB web site hosted by http://www.weebly.com/  
+   [old notes:
+   ensure these 3 domain names continue to be used for SSB:
+   systbio.org (WestHost, expires 2016-08-01, owned by Ruediger Birenheide, birenheide@gmail.com)
+   systbiol.org (Network Solutions, expires 2017-05-11, owned by David Cannatella, catfish@austin.utexas.edu)
+   systematicbiology.org (Network Solutions, expires 2017-05-11, owned by David Cannatella, catfish@austin.utexas.edu)]
  - Post Awards; Award winners on the website
  - Update council list and contact info on website
 
