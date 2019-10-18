@@ -11,6 +11,8 @@ one as past-president.
 
 | year | SSB president |
 |------|---------------|
+| 2021 | Laura Kubatko |
+| 2020 | Erika Edwards |
 | 2019 | Cécile Ané    |
 | 2018 | Susana Magallón |
 | 2017 | Luke Harmon   |
