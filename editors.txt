@@ -26,6 +26,7 @@ Recent editor overlap
 ===================================
 Past Editors
 ===================================
+2019-2022 Bryan Carstens
 2016-2019 Tom Near
 2013-2016 Frank E. (Andy) Anderson
 2010-2013 Ron DeBry
