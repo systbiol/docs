@@ -11,6 +11,7 @@ one as past-president.
 
 | year | SSB president |
 |------|---------------|
+| 2022 | Brian O'Meara |
 | 2021 | Laura Kubatko |
 | 2020 | Erika Edwards |
 | 2019 | Cécile Ané    |
