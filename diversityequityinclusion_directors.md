@@ -7,7 +7,7 @@ across the breadth of SSB members.
 Through this targeted work, the DEI committee's overarching goal is to
 help increase the cultural competency of SSB members.
 
-List of Communications Directors
+List of DEI Directors
 ===================================
 
 year | Communications Director
