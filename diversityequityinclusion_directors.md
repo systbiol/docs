@@ -7,10 +7,10 @@ across the breadth of SSB members.
 Through this targeted work, the DEI committee's overarching goal is to
 help increase the cultural competency of SSB members.
 
-List of DEI Directors
+List of Diversity Equity & Inclusion Directors
 ===================================
 
-year | Communications Director
+year | DEI Director
 -----|-----
 2021 | Jessica Ware
 2020 | Jessica Ware
