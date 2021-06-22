@@ -271,7 +271,7 @@ Bylaw 8. Awards in Systematic Biology Committee
 Section 1. Function
 
 The Committee shall select the winners of four awards of the Society:
-1) The Ernst Mayr Award in Systematic Biology given for the outstanding paper presented at the Annual Meeting by a student member of the Society or a member who has received the Ph.D. degree within the last 15 months;
+1) The Outstanding Early Career Paper presented at the Annual Meeting by a student member of the Society or a member who has received the Ph.D. degree within the last 15 months;
 2) the Awards for Graduate Student Research, which are given to assist students in the first two years of their systematics projects to aid in the collection of preliminary data needed to pursue additional sources of support;
 3) The Mini-ARTS awards to enhance expertise in taxonomy by transferring knowledge from older to younger taxonomists (Advancing Revisionary Taxonomy and Systematics); and
 4) Travel Awards to attend systematics workshops.
@@ -279,6 +279,12 @@ The Committee shall select the winners of four awards of the Society:
 Section 2. Membership
 
 The Committee shall consist of at least three members: the Awards Director who assumes responsibility as committee chair, appointed for a three-year term as described above, and at least two additional members appointed annually by the Awards Director. The committee should include at least one person who served on a previous year’s Committee.
+
+Section 3. Other Awards
+
+Other awards are selected by other individuals or groups:
+1) Publisher's Award for Excellence in Systematic Research: Chosen by the President from papers published in SSB journals in the year leading up to the selection.
+2) Presidents' Award For Lifetime Achievement: Chosen by a committee of the President, Past President, and President-Elect. It may be awarded more more frequently than every three years.
 
 Bylaw 9. Initiatives and Long-Range Planning Committee
 
