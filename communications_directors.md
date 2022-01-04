@@ -9,6 +9,9 @@ List of Communications Directors
 
 year | Communications Director
 -----|-----
+2024 | Jeremy Brown
+2023 | Jeremy Brown
+2022 | Jeremy Brown
 2021 | Tracy Heath
 2020 | Tracy Heath
 2019 | Tracy Heath
