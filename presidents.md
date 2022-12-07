@@ -46,40 +46,44 @@ one as past-president.
 | 1991 | William Fink   |
 | 1990 | J. A. Powell   |
 | 1989 | Robert Hoffman |
-| 1988 | Edward O. Wiley |
-| 1987 | check on Jstor: front matter of Systematic Zoology |
-| 1986 |  |
-| 1985 |  |
-| 1984 |  |
-| 1983 |  |
-| 1982 |  |
-| 1981 |  |
-| 1980 |  |
-| 1979 |  |
-| 1978 |  |
-| 1977 |  |
-| 1976 |  |
-| 1975 |  |
-| 1974 |  |
-| 1973 |  |
-| 1972 |  |
-| 1971 |  |
-| 1970 |  |
-| 1969 |  |
-| 1968 |  |
-| 1967 |  |
-| 1966 |  |
-| 1965 |  |
-| 1964 |  |
-| 1963 |  |
-| 1962 |  |
-| 1961 |  |
-| 1960 |  |
-| 1959 |  |
-| 1958 |  |
-| 1957 |  |
-| 1956 |  |
-| 1955 |  |
-| 1954 |  |
-| 1953 |  |
-| 1952 |  |
+| 1988 | Robert Hoffman |
+| 1987 | E. O. Wiley, III |
+| 1986 | Gareth Nelson |
+| 1985 | D. L. Hull |
+| 1984 | D. L. Hull |
+| 1983 | J. A. Slater |
+| 1982 | J. A. Slater |
+| 1981 | E. C. Olson |
+| 1980 | E. C. Olson |
+| 1979 | R. F. Johnston |
+| 1978 | R. F. Johnston |
+| 1977 | D. E. Rosen |
+| 1976 | D. E. Rosen |
+| 1975 | Therodore Downs |
+| 1974 | Theodore Downs |
+| 1973 | H. H. Ross |
+| 1972 | N. D. Newell |
+| 1971 | R. F. Inger |
+| 1970 | J. O. Corliss |
+| 1969 | C. D. Michener |
+| 1968 | P. L. Illg |
+| 1967 | R. L. Usinger |
+| 1966 | Ernst Mayr |
+| 1965 | H. M. Smitch |
+| 1964 | R. W. Pennak |
+| 1963 | G. G. Simpson |
+| 1962 | C. W. Sabrosky |
+| 1961 | R. E. Blackwelder |
+| 1960 | W. I. Follett |
+| 1959 | L. H. Hyman |
+| 1958 | A. E. Emerson |
+| 1957 | R. C. Moore |
+| 1956 | G. W. Wharton |
+| 1955 | L. M. Klauber |
+| 1954 | H. W. Stunkard |
+| 1953 | H. B. Hungerford |
+| 1952 | A. S. Romer |
+| 1951 | C. L. Hubbs |
+| 1950 | A. Petrunkevitch |
+| 1949 | W. L. Schmidt |
+| 1948 | W. L. Schmidt|
