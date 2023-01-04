@@ -1,35 +1,35 @@
-===================================
-Awards Director duties
-===================================
-- elected by Council
+# Awards Director Duties
+
+- Elected by Council
 - 3 year term
-- two additional members appointed annually by the Awards Director
-- selects winners of 4 awards
+- Two additional members of Awards Committee appointed annually by the Awards Director
+- Selects winners of 4 awards
     1. Ernst Mayr Award in Systematic Biology
-        - given for the outstanding paper presented at the annual meeting by a student
+        - Given for the outstanding paper presented at the annual meeting by a student
           member of the Society or a member who has received the Ph.D. degree within
           the last 15 months
-    2. the “Awards for Graduate Student Research”
-        - given to assist students in the first two years of their systematics projects
+    2. The “Awards for Graduate Student Research”
+        - Given to assist students in the first two years of their systematics projects
           to aid in the collection of preliminary data needed to pursue additional
           sources of support
     3. The Mini-PEET awards
-        - to enhance expertise in taxonomy by transferring knowledge from older to
+        - Given to enhance expertise in taxonomy by transferring knowledge from older to
           younger taxonomists
     4. Travel Awards
-        - to attend systematics workshops
+        - Given to attend systematics workshops
 
-===================================
-List of Awards Directors
-===================================
-2023    Davalos Liliana
-2022    Davalos Liliana
-2021    Davalos Liliana
-2020    Zapata  Felipe
-2019    Zapata  Felipe
-2018    Heath   Tracy
-2017    Heath   Tracy
-2016    Heath   Tracy
-2015    Brady   Sean
-2014    Brady   Sean
-2013    Brady   Sean
+# List of Awards Directors
+
+| Year | Awards Director |
+|------|-----------------|
+| 2023 | Liliana Davalos |
+| 2022 | Liliana Davalos |
+| 2021 | Liliana Davalos |
+| 2020 | Felipe Zapata |
+| 2019 | Felipe Zapata |
+| 2018 | Tracy Heath |
+| 2017 | Tracy Heath |
+| 2016 | Tracy Heath |
+| 2015 | Sean Brady |
+| 2014 | Sean Brady |
+| 2013 | Sean Brady |
