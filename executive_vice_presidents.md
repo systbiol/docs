@@ -5,7 +5,7 @@ Executive Vice President Duties
 - 3 year term
 - Serves as chair of Council if neither President nor President-elect are available
 
-List of Exectutive Vice Presidents
+List of Executive Vice Presidents
 ===================================
 
 Year | EVP
