@@ -1,15 +1,16 @@
-Exectutive Vice President duties
+Executive Vice President duties
 ===================================
 
-- elected by Council
+- Elected by Council
 - 3 year term
-- serves as chair of Council if neither President nor President-elect are available
+- Serves as chair of Council if neither President nor President-elect are available
 
 List of Exectutive Vice Presidents
 ===================================
 
 year | EVP
 -----|-----
+2023 | Elizabeth Jockusch
 2022 | Adam Leaché
 2021 | Adam Leaché
 2020 | Adam Leaché
