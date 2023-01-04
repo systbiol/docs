@@ -1,4 +1,4 @@
-Executive Vice President duties
+Executive Vice President Duties
 ===================================
 
 - Elected by Council
@@ -8,7 +8,7 @@ Executive Vice President duties
 List of Exectutive Vice Presidents
 ===================================
 
-year | EVP
+Year | EVP
 -----|-----
 2023 | Elizabeth Jockusch
 2022 | Adam Leaché
