@@ -1,11 +1,11 @@
 # president duties
 
-- elected
-- serves 3 years:
-one as president-elect,
-one as president,
-one as past-president.
-- see detailed description of [duties](SSB_PresDuties.pdf)
+- Elected by the SSB membership
+- Serves 3 years:
+one as President-Elect,
+one as President,
+one as Past-President.
+- See detailed description of [duties](SSB_PresDuties.pdf)
 
 # list of presidents
 
@@ -35,9 +35,9 @@ one as past-president.
 | 2002 | Elizabeth Kellogg |
 | 2001 | Kevin de Queiroz |
 | 2000 | David Maddison |
-| 1999 | Vicky Funk     |
+| 1999 | Vicki Funk     |
 | 1998 | Michael Miyamoto |
-| 1997 | Paula Mabee    |
+| 1997 | Paula M. Mabee    |
 | 1996 | Jay Savage     |
 | 1995 | Michael Donoghue |
 | 1994 | David Hillis   |
