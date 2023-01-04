@@ -14,8 +14,9 @@ one year in advance.
 List of Joint Meeting Committee Representatives
 ===============================================
 
-year | JMP rep
+Year | JMC Representative
 -----|-----
+2022 | Luke Harmon
 2021 | Luke Harmon
 2020 | Kelly Zamudio
 2019 | Kelly Zamudio
