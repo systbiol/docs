@@ -1,17 +1,17 @@
 ## 2023
 
-President: David Baum
-President-Elect: Corrie Moreau
-Past President: Brian O'Meara
-Executive Vice President: Elizabeth Jockusch
-Treasurer: Emily Jane McTavish
-Program Director: Alison Davis Rabosky
-Awards Director: Liliana Davalos
-Communications Director: Jeremy Brown
-Joint Meeting Committee Representative: 
-Diversity, Equity, & Inclusion Director: 
-Systematic Biology Editor-In-Chief: Isabel Sanmartín
-
+President: David Baum  
+President-Elect: Corrie Moreau  
+Past President: Brian O'Meara  
+Executive Vice President: Elizabeth Jockusch  
+Treasurer: Emily Jane McTavish  
+Program Director: Alison Davis Rabosky  
+Awards Director: Liliana Davalos  
+Communications Director: Jeremy Brown  
+Joint Meeting Committee Representative:  
+Diversity, Equity, & Inclusion Director:  
+Systematic Biology Editor-In-Chief: Isabel Sanmartín  
+  
 ## 2022
 
 President: Brian O'Meara
