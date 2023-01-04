@@ -1,4 +1,4 @@
-# president duties
+# President Duties
 
 - Elected by the SSB membership
 - Serves 3 years:
@@ -7,7 +7,7 @@ one as President,
 one as Past-President.
 - See detailed description of [duties](SSB_PresDuties.pdf)
 
-# list of presidents
+# List of Presidents
 
 | year | SSB president |
 |------|---------------|
