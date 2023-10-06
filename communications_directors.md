@@ -8,6 +8,7 @@
 
 | Year | Communications Director |
 |------|-------------------------|
+| 2024 | Jeremy Brown |
 | 2023 | Jeremy Brown |
 | 2022 | Jeremy Brown |
 | 2021 | Tracy Heath |
