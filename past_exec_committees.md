@@ -22,8 +22,8 @@ Treasurer: Emily Jane McTavish
 Program Director: Alison Davis Rabosky  
 Awards Director: Liliana Davalos  
 Communications Director: Jeremy Brown  
-Joint Meeting Committee Representative: Luke Harmon
-Diversity, Equity, & Inclusion Director: Jessica Ware
+Joint Meeting Committee Representative: Luke Harmon  
+Diversity, Equity, & Inclusion Director: Jessica Ware  
 Systematic Biology Editor-In-Chief: Isabel Sanmartín  
   
 ## 2022  
