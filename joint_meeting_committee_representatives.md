@@ -16,6 +16,8 @@ List of Joint Meeting Committee Representatives
 
 Year | JMC Representative
 -----|-----
+2024 | Tracy Heath
+2023 | Luke Harmon
 2022 | Luke Harmon
 2021 | Luke Harmon
 2020 | Kelly Zamudio
