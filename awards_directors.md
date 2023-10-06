@@ -22,6 +22,8 @@
 
 | Year | Awards Director |
 |------|-----------------|
+| 2024 | Heath Blackmon |
+| 2023 | Heath Blackmon |
 | 2023 | Liliana Davalos |
 | 2022 | Liliana Davalos |
 | 2021 | Liliana Davalos |
