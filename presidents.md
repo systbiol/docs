@@ -11,6 +11,8 @@ one as Past-President.
 
 | year | SSB president |
 |------|---------------|
+| 2025 | Jessica Ware |
+| 2024 | Corrie Moreau |
 | 2023 | David Baum |
 | 2022 | Brian O'Meara |
 | 2021 | Laura Kubatko |
