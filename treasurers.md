@@ -7,6 +7,7 @@
 
 | Year | Treasurer |
 |------|-----------|
+| 2024 | Emily Jane McTavish |
 | 2023 | Emily Jane McTavish |
 | 2022 | Emily Jane McTavish |
 | 2021 | Noah Reid |
