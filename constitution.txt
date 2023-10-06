@@ -128,7 +128,7 @@ ARTICLE VII. COMMITTEES
 
 Section 1.
 
-The following Committees shall be appointed by the President pursuant to the conditions provided elsewhere in this Constitution and/or in the by-laws: Awards in Systematic Biology, Initiatives and Long-range Planning, Nominating, Publication, and Coordinating. The Board of Trustees shall be appointed by the President in consultation with the executive council and elected by the council as discussed below Article VIII, section 2.
+The following Committees shall be appointed by the President pursuant to the conditions provided elsewhere in this Constitution and/or in the by-laws: Awards in Systematic Biology, Initiatives and Long-range Planning, Nominating, Publication, Legacy, and Coordinating. The Board of Trustees shall be appointed by the President in consultation with the executive council and elected by the council as discussed below Article VIII, section 2.
 
 ARTICLE VIII. NOMINATIONS AND ELECTIONS
 
@@ -140,7 +140,6 @@ Each President just before the time of the Annual Meeting will nominate one SSB 
 Each nominating committee member will serve three years. In the third year of his or her term, the member will head the nominating committee.
 The past president will serve in an advisory role. The committee reports to the Council via the Executive Vice President.
 The committee will work from September-January to assemble the ballot including any constitutional amendments approved by the council.
-The ballot must be finalized and approved by the council by the beginning of March.
 Elections must be held at least two months prior to the Annual Meeting.
 The Committee shall secure two candidates or more for each position to be elected by the general membership (President-Elect, Councilors, and if necessary President),
 and one or more candidates for each position to be elected by the Council
@@ -150,7 +149,7 @@ Five members of the Society may nominate a candidate for
 President-Elect (and if necessary, President) or Councilor (see Bylaw 3). Any
 Councilor may nominate a candidate for Executive Vice President, Treasurer, Awards Director,
 Communications Director, Joint Meeting Committee Representative, DEI Director or Program Director (see Bylaw 4).
-The ballot should be finalized and sent to the council for approval by 15 March of each year.
+The Nominating Committee will provide a list of potential nominees to the Council by January 15 of each year. The Council will raise any concerns about potential nominees to the chair of Nominating Committee by February 1. The Nominating Committee will then begin contacting nominees to invite them to run for positions. The ballot should be finalized and sent to the Council for approval by March 15 of each year. This timeline will apply to all positions elected by the membership, including the Graduate Student Representative to the Council.
 The membership shall be informed of the names of all nominees at least three months prior to the Annual Meeting.
 
 Section 2. Elections
@@ -382,3 +381,5 @@ Society website in June of 2008.
 2017: amendments to the Constitution proposed via electronic ballot September 2017 concerning the addition of graduate student members and their role on council.
 
 2019: amendments to add elected Joint Meeting Committee (JMC) representative officer.
+
+2023: amendments to nominations procedures and to add legacy committee passed in June 2023
