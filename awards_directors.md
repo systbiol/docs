@@ -22,6 +22,7 @@
 
 | Year | Awards Director |
 |------|-----------------|
+| 2024 | Rebecca Chong |
 | 2024 | Heath Blackmon |
 | 2023 | Heath Blackmon |
 | 2023 | Liliana Davalos |
