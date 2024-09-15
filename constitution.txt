@@ -24,9 +24,11 @@ Section 3. Dues
 
 The dues for all membership classes shall be established by a two-thirds vote of the Council.
 
-Section 4. Rights of Membership
+Section 4. Member Rights and Responsibilities
 
 Members shall be entitled to vote in all general Society elections, to receive the Society’s principal journal, to hold office in the Society, and to participate in other usual membership functions.
+
+Members of the Society will be bound by a Code of Ethics, as established by the Council and disseminated by posting on the Society website.
 
 Section 5. Suspension and Reinstatement
 
@@ -241,6 +243,8 @@ shall be held early in the New Year to set the agenda for the annual meeting and
 
 Proxy voting may not take place at the Annual Meeting or at exceptional meetings of the Council or in mail votes.
 
+The Council shall establish and enforce a Code of Ethics, to be distributed to the members. Proposed amendments to the Code of Ethics should first be distributed to the members for comment. After a one-month comment period, adoption of the amendment in its original form requires a two-thirds affirmative vote of the Council.
+
 Bylaw 6. Endowment Committee
 
 Section 1. Function
@@ -383,3 +387,5 @@ Society website in June of 2008.
 2019: amendments to add elected Joint Meeting Committee (JMC) representative officer.
 
 2023: amendments to nominations procedures and to add legacy committee passed in June 2023
+
+2023: amendments related to the code of ethics passed in October 2023, to take effect at the time of the 2024 annual meeting
