@@ -1,5 +1,19 @@
 ## 2024
 
+President: Jessica Ware 
+President-Elect:  Tracy Heath
+Past President: Corrie Moreau  
+Executive Vice President: Elizabeth Jockusch  
+Treasurer: Lacey Knowles 
+Program Director: Alison Davis Rabosky  
+Awards Director: Rebecca Chong  
+Communications Director: April Wright 
+Joint Meeting Committee Representative: Josef Uyeda 
+Diversity, Equity, & Inclusion Director: Anahí Espíndola  
+Systematic Biology Editor-In-Chief: Bob Thomson  
+
+## 2024
+
 President: Corrie Moreau  
 President-Elect: Jessica Ware  
 Past President: David Baum  

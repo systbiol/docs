@@ -10,6 +10,7 @@ List of Executive Vice Presidents
 
 Year | EVP
 -----|-----
+2025 | Elizabeth Jockusch
 2024 | Elizabeth Jockusch
 2023 | Elizabeth Jockusch
 2022 | Adam Leaché

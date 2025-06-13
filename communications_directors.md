@@ -8,6 +8,7 @@
 
 | Year | Communications Director |
 |------|-------------------------|
+| 2025 | April Wright |
 | 2024 | Jeremy Brown |
 | 2023 | Jeremy Brown |
 | 2022 | Jeremy Brown |

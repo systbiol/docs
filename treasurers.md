@@ -7,6 +7,7 @@
 
 | Year | Treasurer |
 |------|-----------|
+|2025  | Lacey Knowles |
 | 2024 | Emily Jane McTavish |
 | 2023 | Emily Jane McTavish |
 | 2022 | Emily Jane McTavish |

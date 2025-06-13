@@ -16,6 +16,7 @@ List of Joint Meeting Committee Representatives
 
 Year | JMC Representative
 -----|-----
+2025 | Josef Uyeda
 2024 | Tracy Heath
 2023 | Luke Harmon
 2022 | Luke Harmon
