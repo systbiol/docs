@@ -1,6 +1,6 @@
 ## 2024
 
-President: Jessica Ware 
+President: Jessica Ware
 President-Elect:  Tracy Heath
 Past President: Corrie Moreau  
 Executive Vice President: Elizabeth Jockusch  
