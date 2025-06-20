@@ -11,6 +11,7 @@ one as Past-President.
 
 | year | SSB president |
 |------|---------------|
+| 2026 | Tracy Heath   |
 | 2025 | Jessica Ware |
 | 2024 | Corrie Moreau |
 | 2023 | David Baum |
